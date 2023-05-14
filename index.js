@@ -17,7 +17,7 @@ response.then((v)=>{
                 <p> Status is  ${contests[item].status} and site is ${contests[item].site} </p>
                 <p> In 24 Hours?  ${contests[item].in_24_hours} </p>
                 <p>Starts at: ${contests[item].start_time}
-                <p class="m-0 p-0">Starts at: ${contests[item].end_time}
+                <p class="m-0 p-0">Ends at: ${contests[item].end_time}
                 <a href=" ${contests[item].url}" class="btn btn-primary mt-1">Visit Contest</a>
             </div>
          </div>
