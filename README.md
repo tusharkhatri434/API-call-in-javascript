@@ -4,7 +4,7 @@
  
  
  
-IN this i have mention my website https://tusharkhatri434.github.io/Java-script/ which shows all coding competion of deffirent sites
+IN this i have mention my website https://tusharkhatri434.github.io/API-call-in-javascript/ which shows all coding competion of deffirent sites
 in this code base i use github free-Api repo in which i have found a kontest name repo this repo use for fetching api in backend.
 https://kontests.net/api --api service site.
 
